@@ -6,4 +6,5 @@ Creating a new branch is quick AND simple.
 
 This is some modifications in the dev branch.
 
+this is the lastest modification in another computer.
 i have also did some modifications in master computer.
